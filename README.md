@@ -1,2 +1,0 @@
-# Battleship
-Project: Battleship Game
