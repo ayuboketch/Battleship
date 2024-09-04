@@ -66,14 +66,14 @@ Project Structure
 
 php
 
-  battleship/
-  ├── public/                # Static files (HTML, CSS)
-  ├── src/                   # Source files
-  │   ├── main.js            # Main game logic
-  │   ├── main.test.js       # Tests for game logic
-  ├── server/                # Node.js server for multiplayer mode
-  ├── package.json           # Node.js dependencies and scripts
-  └── README.md              # Project documentation
+battleship/
+├── public/                # Static files (HTML, CSS)
+├── src/                   # Source files
+│   ├── main.js            # Main game logic
+│   ├── main.test.js       # Tests for game logic
+├── server/                # Node.js server for multiplayer mode
+├── package.json           # Node.js dependencies and scripts
+└── README.md              # Project documentation
 
 Technologies Used
 
