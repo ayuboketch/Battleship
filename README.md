@@ -28,9 +28,9 @@ A classic Battleship game built with JavaScript, HTML, and CSS. This project inc
 To get started with the Battleship game, clone the repository and install the dependencies.
 
   bash
-  git clone https://github.com/yourusername/battleship.git
+  git clone https://github.com/ayuboketch/battleship.git
   cd battleship
-  npm install
+  npm install or npm i
 
 Usage
 
@@ -38,7 +38,7 @@ To run the game locally:
 
 bash
 
-npm start
+  npm start
 
 This will start a local development server, and you can play the game by navigating to http://localhost:3000 in your browser.
 Multiplayer Mode
@@ -59,21 +59,21 @@ This project uses Vitest for testing. To run the tests, use:
 
 bash
 
-npm test
+  - npm test
 
 This will execute the test suite and provide coverage information.
 Project Structure
 
 php
 
-battleship/
-├── public/                # Static files (HTML, CSS)
-├── src/                   # Source files
-│   ├── main.js            # Main game logic
-│   ├── main.test.js       # Tests for game logic
-├── server/                # Node.js server for multiplayer mode
-├── package.json           # Node.js dependencies and scripts
-└── README.md              # Project documentation
+  battleship/
+  ├── public/                # Static files (HTML, CSS)
+  ├── src/                   # Source files
+  │   ├── main.js            # Main game logic
+  │   ├── main.test.js       # Tests for game logic
+  ├── server/                # Node.js server for multiplayer mode
+  ├── package.json           # Node.js dependencies and scripts
+  └── README.md              # Project documentation
 
 Technologies Used
 
