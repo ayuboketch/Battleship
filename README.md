@@ -2,6 +2,12 @@
 
 ![Battleship](https://img.shields.io/badge/Status-Development-blue) ![GitHub license](https://img.shields.io/badge/license-MIT-green)
 
+<img width="1675" alt="Screenshot 2024-09-05 at 01 12 44" src="https://github.com/user-attachments/assets/05c1acec-94dd-4a76-b8ed-71f8c864df72">
+
+<img width="1675" alt="Screenshot 2024-09-05 at 01 13 03" src="https://github.com/user-attachments/assets/57a13959-aeb0-4f91-a718-8a69f1ff907d">
+
+![Battleship](https://img.shields.io/badge/Status-Development-blue) ![GitHub license](https://img.shields.io/badge/license-MIT-green)
+
 A classic Battleship game built with JavaScript, HTML, and CSS. This project includes both single-player and multiplayer modes, allowing users to play against the computer or another player online.
 
 ## Table of Contents
